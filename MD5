@@ -1,0 +1,10 @@
+4721d16da262789ca16aeb140687ff22 *DESCRIPTION
+1e2d161b8761bf7c913b184e87d53ce6 *NAMESPACE
+5b2fc3fbe863d7d1a9b547d57e37b25e *R/plot_low_res.R
+fd27988508281af1635136b4e37ba146 *R/spot_id.R
+f102a09da611596dc6eaf5dfb7f09bce *data/PersomicsPlate.rda
+72529023489ae206cfbf5f9cde1a9605 *man/PersomicsArray-package.Rd
+e18aab46876b1a4f8c93e58a6279a22d *man/example_annotation.Rd
+c0717cda2555a4c24df26b458c552b19 *man/example_plate.Rd
+417c9d329683ce3cbd925b4b2c8618cd *man/plot_low_res.Rd
+95a96f49a96c2c61a3c08dfbcfd9913b *man/spot_id.Rd

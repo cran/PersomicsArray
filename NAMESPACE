@@ -1,0 +1,11 @@
+importFrom("utils","read.table")
+importFrom("graphics","par","points")
+importFrom("stats","nlminb")
+importFrom("stringr", "str_c")
+importFrom("raster", "raster", "writeRaster","image", "quantile","stack","t")
+importFrom("grDevices","dev.off","rainbow","tiff","gray.colors")
+import("jpeg")
+import("tiff")
+
+export("spot_id","plot_low_res")
+
